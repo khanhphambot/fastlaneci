@@ -1,0 +1,18 @@
+[
+  {
+    "id": "580434fc-b36d-40af-bcae-a3890051fd98",
+    "email": "khanhpham.bot@gmail.com",
+    "password_hash": "$2a$10$q6Diec74Q10mP2jK6r8y9.PWSxDZdkxNCKaespMqeF9Ezxf/xpTfS",
+    "provider_credentials": [
+      {
+        "id": "87efa2ce-bcff-41a0-9f75-ccf83b7d84e8",
+        "email": "khanhpham.bot@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "InQfYKxGDuWaY66mYDVgVXoFCixivpKbBynENKorJF6JmjwCPLKCiuR7udCV\nQPl9IbwpciW/UZ/Xu3Rzf+sGOQ==\n"
+      }
+    ]
+  }
+]
